@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 
 <!--
 **gon2gon2/gon2gon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
