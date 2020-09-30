@@ -1,6 +1,6 @@
 ### 하위^^
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)](https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)
-[![Python Badge](https://img.shields.io/badge/-g0ni.tistory-brightgreen?style=flat-square&logo=appveyor&link=https://g0n1.tistory.com/)]
+[![Python Badge](https://img.shields.io/badge/-g0ni.tistory-brightgreen?style=flat-square&logo=python&link=https://g0n1.tistory.com/)]
 
 <!--img.shields.io/badge/blog-g0ni.tistory-brightgreen-->
 
