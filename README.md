@@ -1,10 +1,9 @@
 ### 하위^^
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)](https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)
-[![Python Badge](https://img.shields.io/badge/-blog-brightgreen?style=flat-square&logo=python?link=http://g0n1.tistory.com&link=http://g0n1.tistory.com)](https://g0n1.tistory.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?stylestyle=flat-square&logo=python?link=https://www.instagram.com/sunggon_song&link=https://www.instagram.com/sunggon_song)](https://www.instagram.com/sunggon_song)
+- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)](https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)
+- [![Python Badge](https://img.shields.io/badge/-blog-brightgreen?style=flat-square&logo=python?link=http://g0n1.tistory.com&link=http://g0n1.tistory.com)](https://g0n1.tistory.com)
+- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?stylestyle=flat-square&logo=python?link=https://www.instagram.com/sunggon_song&link=https://www.instagram.com/sunggon_song)](https://www.instagram.com/sunggon_song)
 
 <!--img.shields.io/badge/blog-g0ni.tistory-brightgreen-->
-https://img.shields.io/twitter/url?label=Tistory%20blog&logo=Python&logoColor=red&style=flat-square&url=https%3A%2F%2Fg0n1.tistory.com%2F
 <!--
 **gon2gon2/gon2gon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
