@@ -1,8 +1,8 @@
 ### 하위^^
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)](https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)
+[![](https://img.shields.io/badge/-g0ni.tistory-brightgreen)]
 
 <!--img.shields.io/badge/blog-g0ni.tistory-brightgreen-->
-(https://img.shields.io/badge/-g0ni.tistory-brightgreen)
 
 <!--
 **gon2gon2/gon2gon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
