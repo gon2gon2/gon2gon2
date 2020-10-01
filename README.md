@@ -1,6 +1,6 @@
 ### 하위^^ 코딩을 정말 살짝 좋아하고 게임과 만화를 좋아하는 gon2gon2입니다. 동물복지와 환경보호에도 관심이 있습니다. 유튜브나 블로그 가끔 놀러와주시면 감사하겠습니다.
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)](https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)
-[![Python Badge](https://img.shields.io/badge/-blog-brightgreen?style=flat-square&logo=python?link=http://g0n1.tistory.com&link=http://g0n1.tistory.com)](https://g0n1.tistory.com)
+[![Python Badge](https://img.shields.io/badge/-Tistory-brightgreen?style=flat-square&logo=python?link=http://g0n1.tistory.com&link=http://g0n1.tistory.com)](https://g0n1.tistory.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?stylestyle=flat-square&logo=Instagram?link=https://www.instagram.com/sunggon_song&link=https://www.instagram.com/sunggon_song)](https://www.instagram.com/sunggon_song)
 
 <!--img.shields.io/badge/blog-g0ni.tistory-brightgreen-->
