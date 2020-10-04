@@ -9,7 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?stylestyle=flat-square&logo=Instagram?link=https://www.instagram.com/sunggon_song&link=https://www.instagram.com/sunggon_song)](https://www.instagram.com/sunggon_song)
 
 ---
-#Repositories
+# Repositories
 ### kaggle
   - 캐글 노트북 필사
   
