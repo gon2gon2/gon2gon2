@@ -8,6 +8,17 @@
 [![Python Badge](https://img.shields.io/badge/-Tistory-brightgreen?style=flat-square&logo=python?link=http://g0n1.tistory.com&link=http://g0n1.tistory.com)](https://g0n1.tistory.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?stylestyle=flat-square&logo=Instagram?link=https://www.instagram.com/sunggon_song&link=https://www.instagram.com/sunggon_song)](https://www.instagram.com/sunggon_song)
 
+---
+#Repositories
+### kaggle
+  - 캐글 노트북 필사
+  
+### baekjoon
+  - 백준 단계별 문제 풀이 푸는 중
+  
+### study
+  - DLWP: 케라스 창시자한테 배우는 딥러닝
+
 <!--img.shields.io/badge/blog-g0ni.tistory-brightgreen-->
 <!--
 **gon2gon2/gon2gon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
