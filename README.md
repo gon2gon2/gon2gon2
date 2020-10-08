@@ -21,6 +21,7 @@
   
 ### study
   - DLWP: 케라스 창시자한테 배우는 딥러닝 <a href="https://github.com/sju-coml/SAI-2020-Team-I">(SAI-I팀 스터디)</a>
+  - ml-definitive-guide: 파이썬 머신러닝 완벽 가이드
 
 <!--img.shields.io/badge/blog-g0ni.tistory-brightgreen-->
 <!--
