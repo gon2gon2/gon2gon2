@@ -12,6 +12,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?stylestyle=flat-square&logo=Instagram?link=https://www.instagram.com/sunggon_song&link=https://www.instagram.com/sunggon_song)](https://www.instagram.com/sunggon_song)
 
 ---
+# Projects
+### 한국관광공사 근로자휴가지원사업 심사 업무 자동화
+  - 신청자가 업로드한 문서이미지와 입력 데이터를 크롤러로 수집한 후, OCR 패키지인 pytesseract로 인식해 데이터와 문서이미지를 대조해 대조 결과를 보여주는 프로그램 개발 (한국관광공사 사장 표창장 수상)
+
+---
 # Repositories
 ### kaggle
   - 캐글 노트북 필사
