@@ -15,10 +15,14 @@
 # Projects
 ### 한국관광공사 근로자휴가지원사업 심사 업무 자동화
   - 신청자가 업로드한 문서이미지와 입력 데이터를 크롤러로 수집한 후, OCR 패키지인 pytesseract로 인식해 데이터와 문서이미지를 대조해 대조 결과를 보여주는 프로그램 개발 (한국관광공사 사장 표창장 수상)
+  - 사용한 언어: python
+  - 패키지: beautifulsoup, selenium, pytesseract, pandas, numpy, ...
   
 ### 세종대학교 AI Challenge 대회
   - 리더보드 2위
   - 동상 
+  - 사용한 언어: python
+  - 패키지: numpy, pandas, scikit-learn, xgboost
 ---
 # Repositories
 ### kaggle
