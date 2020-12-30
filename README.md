@@ -6,13 +6,6 @@
 유튜브나 블로그에 가끔 놀러와주시면 감사하겠습니다. (구독 좋아요)
 - <a href="https://github.com/sju-coml">SAI</a> season3 멤버
 
-
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)](https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)
-[![Python Badge](https://img.shields.io/badge/-Tistory-brightgreen?style=flat-square&logo=python?link=http://g0n1.tistory.com&link=http://g0n1.tistory.com)](https://g0n1.tistory.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?stylestyle=flat-square&logo=Instagram?link=https://www.instagram.com/sunggon_song&link=https://www.instagram.com/sunggon_song)](https://www.instagram.com/sunggon_song)
-
----
-# Projects
 ### 한국관광공사 근로자휴가지원사업 심사 업무 자동화
   - 신청자가 업로드한 문서이미지와 입력 데이터를 크롤러로 수집한 후, OCR 패키지인 pytesseract로 인식해 데이터와 문서이미지를 대조해 대조 결과를 보여주는 프로그램 개발 (한국관광공사 사장 표창장 수상)
   - 사용한 언어: python
@@ -23,6 +16,15 @@
   - 동상 
   - 사용한 언어: python
   - 패키지: numpy, pandas, scikit-learn, xgboost
+
+
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)](https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)
+[![Python Badge](https://img.shields.io/badge/-Tistory-brightgreen?style=flat-square&logo=python?link=http://g0n1.tistory.com&link=http://g0n1.tistory.com)](https://g0n1.tistory.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?stylestyle=flat-square&logo=Instagram?link=https://www.instagram.com/sunggon_song&link=https://www.instagram.com/sunggon_song)](https://www.instagram.com/sunggon_song)
+
+---
+# Projects
+
 ---
 # Repositories
 ### kaggle
