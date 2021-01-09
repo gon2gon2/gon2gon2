@@ -18,13 +18,12 @@
   - 사용한 언어: python
   - 패키지: beautifulsoup, selenium, pytesseract, pandas, numpy, ...
   
-### 세종대학교 AI Challenge 대회
+### 세종대학교 AI Challenge 대회 (동상)
   - 리더보드 2위
-  - 동상 
   - 사용한 언어: python
   - 패키지: numpy, pandas, scikit-learn, xgboost
   
-### 세종대학교 제 9회 SW·AI 해커톤 대회
+### 세종대학교 제 9회 SW·AI 해커톤 대회 (장려상)
   - 음식 사진 데이터 수집
   - 음식 분류기 모델링
   - 음식 추천 알고리즘 개발
