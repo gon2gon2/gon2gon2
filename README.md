@@ -1,10 +1,21 @@
 # gon2gon2
-코딩을 조금 좋아하고 게임과 만화를 좋아합니다. 
-
+코딩, 게임, 만화를 좋아합니다. 
 동물복지와 환경보호에도 관심이 있습니다. 
 
 유튜브나 블로그에 가끔 놀러와주시면 감사하겠습니다. (구독 좋아요)
 - <a href="https://github.com/sju-coml">SAI</a> season3,4 멤버
+
+
+- 데이터청년캠퍼스 경남대학교 빅 리더 AI 아카데미 2기 수료
+- 엘리스 AI 트랙 2기 레이서 (활동 중)
+
+
+## Certifications
+- ADsP
+- SQLD
+
+### 예정
+- ADP, SQLP, 빅데이터분석기사, 사회조사분석사 2급
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)](https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)
 [![Python Badge](https://img.shields.io/badge/-Tistory-brightgreen?style=flat-square&logo=python?link=http://g0n1.tistory.com&link=http://g0n1.tistory.com)](https://g0n1.tistory.com)
@@ -43,6 +54,8 @@
 
 ### 
 
+---
+# Certifications,
 <!--img.shields.io/badge/blog-g0ni.tistory-brightgreen-->
 <!--
 **gon2gon2/gon2gon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
