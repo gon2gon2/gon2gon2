@@ -14,6 +14,7 @@
 ## Certifications
 - ADsP
 - SQLD
+- DAsP
 
 ### 예정
 - ADP, SQLP, 빅데이터분석기사, 사회조사분석사 2급
