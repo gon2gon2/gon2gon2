@@ -55,10 +55,6 @@
   - ml-definitive-guide: 파이썬 머신러닝 완벽 가이드
   - DSP: 파이썬과 함께하는 
 
-### 
-
----
-# Certifications,
 <!--img.shields.io/badge/blog-g0ni.tistory-brightgreen-->
 <!--
 **gon2gon2/gon2gon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
