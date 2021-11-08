@@ -7,8 +7,8 @@
 - <a href="https://www.youtube.com/playlist?list=PLAn7d_4wwILxF8j_2pcmMEq7piHQzUN6G"><네이버 API를 이용해 블로그, 카페, 뉴스 크롤링해서 워드클라우드 만들기></a> 강의
 
 
-- 데이터청년캠퍼스 경남대학교 빅 리더 AI 아카데미 2기 수료
-- 엘리스 AI 트랙 2기 레이서 (활동 중)
+- 데이터청년캠퍼스 경남대학교 빅 리더 AI 아카데미 2기 (2020.07 ~ 2020.09)
+- 엘리스 AI 트랙 2기 레이서 (2020.06 ~ )
 
 
 ## Certifications
