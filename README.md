@@ -18,15 +18,12 @@
 - SQLD
 - DAsP
 
-### 예정
-- ADP, SQLP, 빅데이터분석기사, 사회조사분석사 2급
-
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)](https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)
 [![Python Badge](https://img.shields.io/badge/-Tistory-brightgreen?style=flat-square&logo=python?link=http://g0n1.tistory.com&link=http://g0n1.tistory.com)](https://g0n1.tistory.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?stylestyle=flat-square&logo=Instagram?link=https://www.instagram.com/sunggon_song&link=https://www.instagram.com/sunggon_song)](https://www.instagram.com/sunggon_song)
 
 ---
-# Projects
+<!-- # Projects
 
 ### 한국관광공사 근로자휴가지원사업 심사 업무 자동화
   - 신청자가 업로드한 문서이미지와 입력 데이터를 크롤러로 수집한 후, OCR 패키지인 pytesseract로 인식해 데이터와 문서이미지를 대조해 대조 결과를 보여주는 프로그램 개발 (한국관광공사 사장 표창장 수상)
@@ -41,7 +38,7 @@
 ### 세종대학교 제 9회 SW·AI 해커톤 대회 (장려상)
   - 음식 사진 데이터 수집
   - 음식 분류기 모델링
-  - 음식 추천 알고리즘 개발
+  - 음식 추천 알고리즘 개발 -->
 
 ---
 <!-- # Repositories
