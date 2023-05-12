@@ -1,30 +1,16 @@
 # gon2gon2
 코딩, 게임, 만화를 좋아합니다. 
 동물복지와 환경보호에 관심이 있습니다.
-지속가능성을 추구합니다.
+삶과 코드에서 지속가능한을 추구합니다.
 
 유튜브나 블로그에 가끔 놀러와주시면 감사하겠습니다. (구독 좋아요)
 - <a href="https://github.com/sju-coml">SAI</a> season3,4 멤버
 - <a href="https://www.youtube.com/playlist?list=PLAn7d_4wwILxF8j_2pcmMEq7piHQzUN6G"><네이버 API를 이용해 블로그, 카페, 뉴스 크롤링해서 워드클라우드 만들기></a> 강의
 
-- SW 사관학교 정글 4기 (2022.03. ~ 2022.08)
-- 엘리스 AI 트랙 2기 레이서 (2021.06 ~ 2021.12)
-- 데이터청년캠퍼스 경남대학교 빅 리더 AI 아카데미 2기 (2020.07 ~ 2020.09)
-
-
-
-
-## Certifications
-- 빅데이터분석기사
-- ADsP
-- SQLD
-- DAsP
-
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)](https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)
 [![Python Badge](https://img.shields.io/badge/-Tistory-brightgreen?style=flat-square&logo=python?link=http://g0n1.tistory.com&link=http://g0n1.tistory.com)](https://g0n1.tistory.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?stylestyle=flat-square&logo=Instagram?link=https://www.instagram.com/sunggon_song&link=https://www.instagram.com/sunggon_song)](https://www.instagram.com/sunggon_song)
 
----
 <!-- # Projects
 
 ### 한국관광공사 근로자휴가지원사업 심사 업무 자동화
