@@ -1,4 +1,5 @@
 # gon2gon2
+<!-- 
 코딩, 게임, 만화를 좋아합니다. 
 동물복지와 환경보호에 관심이 있습니다.
 삶과 코드에서 지속가능한을 추구합니다.
@@ -10,7 +11,7 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)](https://www.youtube.com/channel/UC_iHjQ-h6496ac2xggA6m_g)
 [![Python Badge](https://img.shields.io/badge/-Tistory-brightgreen?style=flat-square&logo=python?link=http://g0n1.tistory.com&link=http://g0n1.tistory.com)](https://g0n1.tistory.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?stylestyle=flat-square&logo=Instagram?link=https://www.instagram.com/sunggon_song&link=https://www.instagram.com/sunggon_song)](https://www.instagram.com/sunggon_song)
-
+-->
 <!-- # Projects
 
 ### 한국관광공사 근로자휴가지원사업 심사 업무 자동화
